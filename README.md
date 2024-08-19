@@ -1,4 +1,4 @@
-# mforge: Pioneering AI-Driven Fund Management
+# mforge: Pioneering AI-Driven Fund Management and Automated Trading
 
 ![image](https://github.com/user-attachments/assets/2e997cdd-1c2d-43a9-9181-9a33e8d56452)
 
